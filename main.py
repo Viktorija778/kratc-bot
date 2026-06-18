@@ -1,0 +1,1 @@
+print("KRATC bot paleistas")
